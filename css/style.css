@@ -137,7 +137,7 @@ body {
   color: #7d1a4a;
   position: relative;
   overflow: hidden;
-  background-image: url('./flowers.jpg');
+  background-image: url('../images/flowers.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -343,10 +343,9 @@ body {
   box-shadow: 0 4px 16px rgba(233,30,140,0.3);
   transition: opacity var(--transition), transform var(--transition), box-shadow var(--transition);
   margin-top: 6px;
-  background-image: url('./button-image.jpg');
-background-size: cover;
-background-position: center;
-
+  background-image: url('../images/button-image.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 .btn-primary:hover {
