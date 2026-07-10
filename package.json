@@ -1,0 +1,24 @@
+{
+  "name": "codingcamp-6july26-naylavionaazahra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naylaviona/CodingCamp-6July26-NaylaVionaAzahra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/naylaviona/CodingCamp-6July26-NaylaVionaAzahra/issues"
+  },
+  "homepage": "https://github.com/naylaviona/CodingCamp-6July26-NaylaVionaAzahra#readme",
+  "devDependencies": {
+    "fast-check": "^4.9.0"
+  }
+}
